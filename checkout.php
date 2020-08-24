@@ -21,8 +21,8 @@ $item->currency_id = "ARS";
 
 //Comprador
 $payer = new MercadoPago\Payer();
-$payer->name = "Beto";
-$payer->surname = "Velez";
+$payer->name = "Lalo";
+$payer->surname = "Landa";
 $payer->email = "test_user_63274575@testuser.com";
 $payer->phone = array(
 	"area_code" => "11",
